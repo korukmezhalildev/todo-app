@@ -1,0 +1,17 @@
+/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Persistance/obj/Debug/net7.0/Case.Persistance.csproj.AssemblyReference.cache
+/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Persistance/obj/Debug/net7.0/Case.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Persistance/obj/Debug/net7.0/Case.Persistance.AssemblyInfoInputs.cache
+/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Persistance/obj/Debug/net7.0/Case.Persistance.AssemblyInfo.cs
+/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Persistance/obj/Debug/net7.0/Case.Persistance.csproj.CoreCompileInputs.cache
+/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Persistance/bin/Debug/net7.0/Case.Persistance.deps.json
+/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Persistance/bin/Debug/net7.0/Case.Persistance.dll
+/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Persistance/bin/Debug/net7.0/Case.Persistance.pdb
+/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Persistance/bin/Debug/net7.0/Case.Application.dll
+/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Persistance/bin/Debug/net7.0/Case.Domain.dll
+/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Persistance/bin/Debug/net7.0/Case.Application.pdb
+/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Persistance/bin/Debug/net7.0/Case.Domain.pdb
+/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Persistance/obj/Debug/net7.0/Case.Persistance.csproj.CopyComplete
+/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Persistance/obj/Debug/net7.0/Case.Persistance.dll
+/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Persistance/obj/Debug/net7.0/refint/Case.Persistance.dll
+/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Persistance/obj/Debug/net7.0/Case.Persistance.pdb
+/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Persistance/obj/Debug/net7.0/ref/Case.Persistance.dll

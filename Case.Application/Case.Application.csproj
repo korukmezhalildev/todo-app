@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="AutoMapper" Version="12.0.1" />
+      <PackageReference Include="Microsoft.AspNetCore.Authorization" Version="2.2.0" />
+      <PackageReference Include="Microsoft.AspNetCore.SignalR" Version="1.1.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Case.Domain\Case.Domain.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Reference Include="Microsoft.AspNet.SignalR.Core">
+        <HintPath>..\..\..\.nuget\packages\microsoft.aspnet.signalr.core\2.4.3\lib\net45\Microsoft.AspNet.SignalR.Core.dll</HintPath>
+      </Reference>
+      <Reference Include="Microsoft.AspNetCore.SignalR" />
+    </ItemGroup>
+
+</Project>

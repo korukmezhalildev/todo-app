@@ -1,0 +1,207 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Persistance/Case.Persistance.csproj": {}
+  },
+  "projects": {
+    "/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Application/Case.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Application/Case.Application.csproj",
+        "projectName": "Case.Application",
+        "projectPath": "/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Application/Case.Application.csproj",
+        "packagesPath": "/Users/halilkorukmez/.nuget/packages/",
+        "outputPath": "/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/halilkorukmez/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Domain/Case.Domain.csproj": {
+                "projectPath": "/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Domain/Case.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.AspNetCore.Authorization": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.SignalR": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Domain/Case.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Domain/Case.Domain.csproj",
+        "projectName": "Case.Domain",
+        "projectPath": "/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Domain/Case.Domain.csproj",
+        "packagesPath": "/Users/halilkorukmez/.nuget/packages/",
+        "outputPath": "/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/halilkorukmez/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Persistance/Case.Persistance.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Persistance/Case.Persistance.csproj",
+        "projectName": "Case.Persistance",
+        "projectPath": "/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Persistance/Case.Persistance.csproj",
+        "packagesPath": "/Users/halilkorukmez/.nuget/packages/",
+        "outputPath": "/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Persistance/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/halilkorukmez/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Application/Case.Application.csproj": {
+                "projectPath": "/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Application/Case.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.SignalR": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0-preview.6.23329.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.0-preview.6.23329.4, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

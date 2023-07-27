@@ -1,0 +1,12 @@
+/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Domain/bin/Debug/net7.0/Case.Domain.deps.json
+/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Domain/bin/Debug/net7.0/Case.Domain.dll
+/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Domain/bin/Debug/net7.0/Case.Domain.pdb
+/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Domain/obj/Debug/net7.0/Case.Domain.csproj.AssemblyReference.cache
+/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Domain/obj/Debug/net7.0/Case.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Domain/obj/Debug/net7.0/Case.Domain.AssemblyInfoInputs.cache
+/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Domain/obj/Debug/net7.0/Case.Domain.AssemblyInfo.cs
+/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Domain/obj/Debug/net7.0/Case.Domain.csproj.CoreCompileInputs.cache
+/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Domain/obj/Debug/net7.0/Case.Domain.dll
+/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Domain/obj/Debug/net7.0/refint/Case.Domain.dll
+/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Domain/obj/Debug/net7.0/Case.Domain.pdb
+/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Domain/obj/Debug/net7.0/ref/Case.Domain.dll

@@ -1,0 +1,17 @@
+/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Infrastructure/bin/Debug/net7.0/Case.Infrastructure.deps.json
+/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Infrastructure/bin/Debug/net7.0/Case.Infrastructure.dll
+/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Infrastructure/bin/Debug/net7.0/Case.Infrastructure.pdb
+/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Infrastructure/bin/Debug/net7.0/Case.Application.dll
+/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Infrastructure/bin/Debug/net7.0/Case.Domain.dll
+/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Infrastructure/bin/Debug/net7.0/Case.Application.pdb
+/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Infrastructure/bin/Debug/net7.0/Case.Domain.pdb
+/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Infrastructure/obj/Debug/net7.0/Case.Infrastructure.csproj.AssemblyReference.cache
+/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Infrastructure/obj/Debug/net7.0/Case.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Infrastructure/obj/Debug/net7.0/Case.Infrastructure.AssemblyInfoInputs.cache
+/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Infrastructure/obj/Debug/net7.0/Case.Infrastructure.AssemblyInfo.cs
+/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Infrastructure/obj/Debug/net7.0/Case.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Infrastructure/obj/Debug/net7.0/Case.Infrastructure.csproj.CopyComplete
+/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Infrastructure/obj/Debug/net7.0/Case.Infrastructure.dll
+/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Infrastructure/obj/Debug/net7.0/refint/Case.Infrastructure.dll
+/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Infrastructure/obj/Debug/net7.0/Case.Infrastructure.pdb
+/Users/halilkorukmez/RiderProjects/Kafein-Case/Case.Infrastructure/obj/Debug/net7.0/ref/Case.Infrastructure.dll
