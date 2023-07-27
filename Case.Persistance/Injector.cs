@@ -9,7 +9,6 @@ namespace Case.Persistance;
 
  public static class ServiceRegistration
     {
-        
         public static void AddPersistenceServices(this IServiceCollection services)
         {
             services.AddDbContextPool<KafeinCaseDataContext>(options => 
